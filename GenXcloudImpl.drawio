@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T13:12:35.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="E9g75d_drPBwMHBM6p-s" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-01T13:16:08.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="1tyI10Pxk3n4jB_-9KYe" version="14.8.3" type="github">
   <diagram id="cb-TSlpXkkvhrSAXmfEZ" name="Page-1">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,10 +44,10 @@
           <mxGeometry x="10" y="318" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8YdzJCJYcOsDjFqOoVUw-19" value="Amazon S3" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
-          <mxGeometry x="20" y="210" width="80" height="100" as="geometry" />
+          <mxGeometry x="10" y="210" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8YdzJCJYcOsDjFqOoVUw-20" value="Amazon Elastic Block Store" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.elastic_block_store;" vertex="1" parent="1">
-          <mxGeometry x="50" y="800" width="80" height="110" as="geometry" />
+          <mxGeometry x="10" y="680" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8YdzJCJYcOsDjFqOoVUw-21" value="Amazon RDS" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.rds;" vertex="1" parent="1">
           <mxGeometry x="698" y="647" width="80" height="100" as="geometry" />
