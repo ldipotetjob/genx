@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T17:33:29.460Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Wfk2CVxG7zsGjbfwlu_Z" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-09T18:56:01.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Y9WxznZw7kbm-CVWz_tY" version="14.8.4" type="github">
   <diagram id="TQAs_POl9BPEK3nTJSrp" name="Page-1">
     <mxGraphModel dx="2571" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -164,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lBKLzJWak1dEmPr4f9gN-22" value="&lt;font style=&quot;font-size: 14px&quot;&gt;downstream analysis&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1420" width="150" height="20" as="geometry" />
+          <mxGeometry x="521" y="1379" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lBKLzJWak1dEmPr4f9gN-23" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;i&gt;Several rounds of polishing can be done&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;i&gt;to improve our draft assembly but &lt;b&gt;not always&amp;nbsp;&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;i&gt;and it is &lt;b&gt;not maandatory&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="488.64" y="1011" width="260" height="50" as="geometry" />
@@ -234,8 +234,77 @@
         </mxCell>
         <mxCell id="lBKLzJWak1dEmPr4f9gN-45" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="288.5" y="1266" as="sourcePoint" />
+            <mxPoint x="288.5" y="1269" as="sourcePoint" />
             <mxPoint x="288.5" y="1301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lBKLzJWak1dEmPr4f9gN-46" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="461.5" y="1270" as="sourcePoint" />
+            <mxPoint x="461.5" y="1302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lBKLzJWak1dEmPr4f9gN-47" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Reordering contig scaffolding and improving genome assmblies&lt;br&gt;tool:&amp;nbsp;&lt;span id=&quot;docs-internal-guid-eec0f8a5-7fff-683e-a7e2-8d98a260feaf&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&amp;nbsp;RagTag&lt;br&gt;[require script to improve output]&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="246.11" y="1370" width="267.89" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lBKLzJWak1dEmPr4f9gN-50" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="376" y="1442" as="sourcePoint" />
+            <mxPoint x="376" y="1478" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lBKLzJWak1dEmPr4f9gN-51" value="&lt;span style=&quot;font-size: 14px&quot;&gt;pay attention to the &lt;b&gt;&lt;i&gt;sequence legnth&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1447" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lBKLzJWak1dEmPr4f9gN-52" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Reordered fasta files&lt;/font&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="311.75" y="1480" width="138.25" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="lBKLzJWak1dEmPr4f9gN-53" value="&lt;font style=&quot;font-size: 14px&quot;&gt;MLST process&lt;br&gt;tool: mlst&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="1537" width="122.94" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lBKLzJWak1dEmPr4f9gN-54" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="481" y="1506" as="sourcePoint" />
+            <mxPoint x="481" y="1535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lBKLzJWak1dEmPr4f9gN-55" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="281" y="1506" as="sourcePoint" />
+            <mxPoint x="281" y="1535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lBKLzJWak1dEmPr4f9gN-56" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span id=&quot;docs-internal-guid-7388e67f-7fff-4939-9a70-83c66781e40b&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Mass screening of contigs for &lt;br&gt;antimicrobial resistance or virulence genes.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;tool:&amp;nbsp;&lt;span id=&quot;docs-internal-guid-4c61e2fd-7fff-1754-0874-86f25e2c711b&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;ABRicate&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="89" y="1538" width="298.93" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lBKLzJWak1dEmPr4f9gN-59" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="281" y="1505" as="sourcePoint" />
+            <mxPoint x="311" y="1505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lBKLzJWak1dEmPr4f9gN-60" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="451" y="1505" as="sourcePoint" />
+            <mxPoint x="481" y="1505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lBKLzJWak1dEmPr4f9gN-61" value="&lt;font style=&quot;font-size: 14px&quot;&gt;downstream analysis&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="594" y="1547" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lBKLzJWak1dEmPr4f9gN-62" value="&lt;font&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;Genome annotation&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;tool: prokka&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="1538" width="158.93" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lBKLzJWak1dEmPr4f9gN-63" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="1490" as="sourcePoint" />
+            <mxPoint x="310" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lBKLzJWak1dEmPr4f9gN-64" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="1490" as="sourcePoint" />
+            <mxPoint x="-40" y="1536" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
