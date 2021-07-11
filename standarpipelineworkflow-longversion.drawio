@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T18:43:14.978Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Zw5lrvxqRmpBVYHBmh43" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T21:01:16.904Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="8N3DtO5mctTxE_xYES7F" version="14.8.5" type="github">
   <diagram id="YcrrAhD9_RUjna5XoT5H" name="Page-1">
-    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -171,18 +171,18 @@
           <mxGeometry x="574.29" y="1168" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-7W4iuTu1Z6AKvaiP86M-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;rRNA genes identification&amp;nbsp;&lt;br&gt;tool:&amp;nbsp;&lt;span id=&quot;docs-internal-guid-eec0f8a5-7fff-683e-a7e2-8d98a260feaf&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&amp;nbsp;barrnap&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="142" width="200" height="50" as="geometry" />
+          <mxGeometry x="410.5" y="1492" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-7W4iuTu1Z6AKvaiP86M-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="40" width="150" height="70" as="geometry" />
+          <mxGeometry x="425.5" y="1390" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-7W4iuTu1Z6AKvaiP86M-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;DATASET&lt;br&gt;assembled GENOME&lt;br&gt;(&lt;b&gt;FASTA format&lt;/b&gt;)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="50" width="150" height="50" as="geometry" />
+          <mxGeometry x="432.5" y="1400" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-7W4iuTu1Z6AKvaiP86M-11" value="" style="endArrow=none;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1213" y="140" as="sourcePoint" />
-            <mxPoint x="1213" y="110" as="targetPoint" />
+            <mxPoint x="503.5" y="1490" as="sourcePoint" />
+            <mxPoint x="503.5" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-7W4iuTu1Z6AKvaiP86M-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;taxonomic identification&amp;nbsp; process&lt;br&gt;tool: kraken2&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
@@ -259,15 +259,81 @@
         </mxCell>
         <mxCell id="-7W4iuTu1Z6AKvaiP86M-33" value="" style="endArrow=none;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1218" y="230" as="sourcePoint" />
-            <mxPoint x="1218" y="192" as="targetPoint" />
+            <mxPoint x="501.75" y="1581" as="sourcePoint" />
+            <mxPoint x="501.75" y="1543" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-7W4iuTu1Z6AKvaiP86M-34" value="&lt;font&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;taxonomic identification&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;classify bacterial and archaeal 16s rRNA sequencestool:&amp;nbsp;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-eec0f8a5-7fff-683e-a7e2-8d98a260feaf&quot; style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&amp;nbsp;classifier&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1076" y="230" width="282" height="50" as="geometry" />
+          <mxGeometry x="366.5" y="1580" width="282" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-7W4iuTu1Z6AKvaiP86M-35" value="&lt;font color=&quot;#000000&quot; face=&quot;arial&quot;&gt;&lt;i&gt;Only those that have correspondance with &lt;br&gt;raw reads.&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="240" width="240" height="30" as="geometry" />
+          <mxGeometry x="123.00999999999999" y="1590" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-7W4iuTu1Z6AKvaiP86M-37" value="" style="endArrow=none;html=1;fontColor=#FF3333;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="501.5799999999999" y="1553.31" as="sourcePoint" />
+            <mxPoint x="760" y="1553" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-7W4iuTu1Z6AKvaiP86M-38" value="" style="endArrow=none;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760.29" y="1591" as="sourcePoint" />
+            <mxPoint x="760" y="1553" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-7W4iuTu1Z6AKvaiP86M-39" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;MLST (2 processes)&lt;br&gt;&lt;/span&gt;tool: mlst&lt;br&gt;Ecoli/Ecoli_2&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="689" y="1590" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-7W4iuTu1Z6AKvaiP86M-40" value="" style="endArrow=none;html=1;fontColor=#FF3333;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="558.6199999999999" y="990.31" as="sourcePoint" />
+            <mxPoint x="980" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-7W4iuTu1Z6AKvaiP86M-41" value="&lt;font&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;mass screening for antimicrobial resistance or virulence genes([2] processed 1 per db)&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;tool:&amp;nbsp;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-eec0f8a5-7fff-683e-a7e2-8d98a260feaf&quot; style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&amp;nbsp;abricate&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1030" width="282" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-7W4iuTu1Z6AKvaiP86M-42" value="" style="endArrow=none;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="1029" as="sourcePoint" />
+            <mxPoint x="979.71" y="991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-7W4iuTu1Z6AKvaiP86M-44" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1052.99" y="880" width="135.01" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-7W4iuTu1Z6AKvaiP86M-45" value="&lt;br&gt;db:&lt;br&gt;/resfinder/card/argannot&lt;br&gt;vfbd" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1051" y="904" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-7W4iuTu1Z6AKvaiP86M-46" value="" style="endArrow=none;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1117.5" y="1030" as="sourcePoint" />
+            <mxPoint x="1118" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-7W4iuTu1Z6AKvaiP86M-47" value="&lt;font style=&quot;font-size: 14px&quot;&gt;gen prediction&lt;br&gt;tool:&amp;nbsp;prodigal&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210.5" y="1021" width="163.33" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="-7W4iuTu1Z6AKvaiP86M-48" value="" style="endArrow=none;html=1;fontColor=#FF3333;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="990" as="sourcePoint" />
+            <mxPoint x="558.0000000000001" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-7W4iuTu1Z6AKvaiP86M-49" value="" style="endArrow=none;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279" y="1022" as="sourcePoint" />
+            <mxPoint x="279" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-7W4iuTu1Z6AKvaiP86M-50" value="&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 11pt&quot;&gt;&lt;span style=&quot;background-color: transparent ; font-size: 11pt&quot;&gt;Files:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;&amp;nbsp;_.faa&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;&amp;nbsp;_.nt -f&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;_.gff&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;&lt;font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1100" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-7W4iuTu1Z6AKvaiP86M-51" value="" style="endArrow=none;html=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="1098" as="sourcePoint" />
+            <mxPoint x="279.71000000000004" y="1060" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
