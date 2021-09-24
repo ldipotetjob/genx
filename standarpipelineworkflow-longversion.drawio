@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T17:12:56.072Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="lT6CIT9jwbAKA2oggKCt" version="15.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-24T17:44:39.714Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="RkX9GbLP0oMiXL81J3dW" version="15.3.1" type="github" pages="3">
   <diagram id="YcrrAhD9_RUjna5XoT5H" name="Page-1">
     <mxGraphModel dx="1320" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -561,7 +561,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Alternative view of Page-1" id="onAwvShVUrTfcWBhcHhm">
-    <mxGraphModel dx="1650" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1413" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="Mb7VQVJZKDzhp5fMmE8q-0" />
         <mxCell id="Mb7VQVJZKDzhp5fMmE8q-1" parent="Mb7VQVJZKDzhp5fMmE8q-0" />
@@ -1298,7 +1298,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SimpleView" id="qJywZu_9UGlkzzVygEDr">
-    <mxGraphModel dx="1320" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1130" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="404FDEJs35ScmnGgrZ6B-0" />
         <mxCell id="404FDEJs35ScmnGgrZ6B-1" parent="404FDEJs35ScmnGgrZ6B-0" />
@@ -1350,11 +1350,14 @@
         <mxCell id="WNjSvaGAEeLqHFbUWxX1-1" value="&lt;div&gt;&lt;b&gt;gen prediction&lt;/b&gt;&lt;/div&gt;&lt;div&gt;prodigal&lt;/div&gt;" style="html=1;shadow=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="404FDEJs35ScmnGgrZ6B-1">
           <mxGeometry x="323.1800000000002" y="370" width="139" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="9QVnOJUJmwCPCDJ3hsp6-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=2;" edge="1" parent="404FDEJs35ScmnGgrZ6B-1" source="WNjSvaGAEeLqHFbUWxX1-2" target="WNjSvaGAEeLqHFbUWxX1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WNjSvaGAEeLqHFbUWxX1-2" value="&lt;div&gt;&lt;b&gt;Quality Control - metrics for comparison&lt;/b&gt;&lt;/div&gt;&lt;div&gt;quast&lt;/div&gt;" style="html=1;shadow=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="404FDEJs35ScmnGgrZ6B-1">
           <mxGeometry x="323.1800000000002" y="429" width="259" height="42" as="geometry" />
         </mxCell>
         <mxCell id="WNjSvaGAEeLqHFbUWxX1-4" value="&lt;div&gt;&lt;b&gt;Contig reordering&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;mauve&lt;/div&gt;" style="html=1;shadow=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="404FDEJs35ScmnGgrZ6B-1">
-          <mxGeometry x="587.7800000000001" y="429" width="135" height="42" as="geometry" />
+          <mxGeometry x="605.7800000000001" y="429" width="135" height="42" as="geometry" />
         </mxCell>
         <mxCell id="WNjSvaGAEeLqHFbUWxX1-5" value="&lt;div&gt;&lt;b&gt;Genome annotation&lt;/b&gt;&lt;/div&gt;&lt;div&gt;prokka&amp;nbsp;&lt;/div&gt;" style="html=1;shadow=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="404FDEJs35ScmnGgrZ6B-1">
           <mxGeometry x="323.17999999999995" y="547" width="139" height="42" as="geometry" />
@@ -1401,7 +1404,7 @@
           <mxGeometry x="535.7099999999999" y="730" width="271.94" height="42" as="geometry" />
         </mxCell>
         <mxCell id="6ScAoISYmVPeDD4-Qriw-8" value="&lt;div&gt;&lt;b&gt;MLST (2 processes)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Ecoli/Ecoli_2&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;mlst&lt;/span&gt;&lt;/div&gt;" style="html=1;shadow=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="404FDEJs35ScmnGgrZ6B-1">
-          <mxGeometry x="537.7099999999998" y="809" width="179.47" height="42" as="geometry" />
+          <mxGeometry x="537.71" y="809" width="262.29" height="42" as="geometry" />
         </mxCell>
         <mxCell id="sSyuE5dlfS2H6C4KWLDk-4" value="&lt;div&gt;&lt;b&gt;escherchia analysis&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; PlasmidFinder&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;abricate&lt;/div&gt;" style="html=1;shadow=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="404FDEJs35ScmnGgrZ6B-1">
           <mxGeometry x="302.29999999999995" y="900" width="179.47" height="42" as="geometry" />
