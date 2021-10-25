@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T16:23:04.472Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="7pyXYax1wnHqXNED5f_h" version="15.5.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-25T16:23:54.504Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="O9IT-eGPsB0sE1cZW5KO" version="15.5.8" type="github" pages="3">
   <diagram id="cb-TSlpXkkvhrSAXmfEZ" name="genx_final">
     <mxGraphModel dx="826" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -391,10 +391,10 @@
           <mxGeometry x="552.5" y="177.5" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bjDJULYY-0YHf3Yyqi0o-38" value="" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#001DBC;fillColor=#0050ef;fontSize=14;fontColor=#ffffff;" vertex="1" parent="ZZNMVvXaXnLhheu3SQkc-1">
-          <mxGeometry x="832" y="339" width="50" height="40" as="geometry" />
+          <mxGeometry x="847" y="280" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bjDJULYY-0YHf3Yyqi0o-39" value="&lt;b&gt;Ejecución en job aws batch&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="ZZNMVvXaXnLhheu3SQkc-1">
-          <mxGeometry x="885" y="353" width="200" height="20" as="geometry" />
+          <mxGeometry x="900" y="294" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
